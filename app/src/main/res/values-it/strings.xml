@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">To Do</string>
+    <string name="new_task">Nuovo Compito</string>
+    <string name="tasks">Compiti</string>
+    <string name="save">Salva</string>
+</resources>

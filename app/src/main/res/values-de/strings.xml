@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="save">Speichern</string>
+    <string name="new_task">Neuer Eintrag</string>
+    <string name="tasks">Tasks</string>
+    <string name="app_name" translatable="false">To Do</string>
+</resources>
